@@ -1,0 +1,50 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: fantasy;
+}
+.conatin img{
+    width:250px;
+    height:250px;
+    transform: translateX(600px);
+    padding:10px;
+    border:2px solid #0097e6;
+    border-radius: 200px;
+}
+.new1{
+	font-size:25px;
+	font-family;fantasy;
+	color:white;
+	background: black;
+	width:300px;
+	float :right;
+	border:2px solid green;
+	padding:5px;
+	margin-right: 10px;
+	border-radius: 50px;
+	text-align:justify;
+}
+.conatin1 img{
+    width:250px;
+    height:250px;
+    padding:10px;
+    border:2px solid #0097e6;
+    border-radius: 200px;
+    float:left
+}
+.new2{
+	font-size:25px;
+	font-family;fantasy;
+	color:white;
+	width:300px;
+	height:525px;
+	float :left;
+	border:2px solid lightblue;
+	padding:20px;
+	margin-right: 10px;
+	margin-top:30px;
+	border-radius: 50px;
+	text-align:justify;
+	transform:translateX(200px);
+	background-color:black ;
+}
